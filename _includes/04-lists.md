@@ -1,3 +1,0 @@
-* Tenet
-* Inception
-* AI
